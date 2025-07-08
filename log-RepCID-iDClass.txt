@@ -1,0 +1,18 @@
+01/04/2025 10:10:18 URL: https://1:443/login.fcgi
+01/04/2025 10:10:18 Enviando dados de login...
+01/04/2025 10:10:19 ERRO HTTP: Impossível conectar-se ao servidor remoto
+   em System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   em System.Net.HttpWebRequest.GetRequestStream()
+   em Controlid.RestJSON.SendJson(String cIP, Object objSend, Type tpResult, String session, Int32 port, Boolean mode671)
+01/04/2025 10:10:19 URL: https://1:443/login.fcgi
+01/04/2025 10:10:19 Enviando dados de login...
+01/04/2025 10:10:19 ERRO HTTP: Impossível conectar-se ao servidor remoto
+   em System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   em System.Net.HttpWebRequest.GetRequestStream()
+   em Controlid.RestJSON.SendJson(String cIP, Object objSend, Type tpResult, String session, Int32 port, Boolean mode671)
+01/04/2025 10:10:19 URL: https://1:443/login.fcgi
+01/04/2025 10:10:19 Enviando dados de login...
+01/04/2025 10:10:19 ERRO HTTP: Impossível conectar-se ao servidor remoto
+   em System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   em System.Net.HttpWebRequest.GetRequestStream()
+   em Controlid.RestJSON.SendJson(String cIP, Object objSend, Type tpResult, String session, Int32 port, Boolean mode671)

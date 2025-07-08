@@ -1,0 +1,43 @@
+Inicio log
+01/04/2025T10:10:20
+Messagem: Referência de objeto não definida para uma instância de um objeto.
+------------------------------------------------------------------------------------------
+StackTrace: 
+     em DpaRep.frmCarregando.btnCancelar_Click(Object sender, EventArgs e)
+  
+   em ComponentFactory.Krypton.Toolkit.ButtonSpec.OnClick(EventArgs e)
+  
+   em ComponentFactory.Krypton.Toolkit.ButtonSpecAny.OnClick(EventArgs e)
+  
+   em ComponentFactory.Krypton.Toolkit.ButtonSpec.PerformClick(EventArgs e)
+  
+   em ComponentFactory.Krypton.Toolkit.ButtonSpecView.OnClick(Object sender, MouseEventArgs e)
+  
+   em ComponentFactory.Krypton.Toolkit.ButtonController.OnClick(MouseEventArgs e)
+  
+   em ComponentFactory.Krypton.Toolkit.ButtonController.MouseUp(Control c, Point pt, MouseButtons button)
+  
+   em ComponentFactory.Krypton.Toolkit.ToolTipController.MouseUp(Control c, Point pt, MouseButtons button)
+  
+   em ComponentFactory.Krypton.Toolkit.ViewBase.MouseUp(Point pt, MouseButtons button)
+  
+   em ComponentFactory.Krypton.Toolkit.ViewBase.MouseUp(Point pt, MouseButtons button)
+  
+   em ComponentFactory.Krypton.Toolkit.ViewManager.MouseUp(MouseEventArgs e, Point rawPt)
+  
+   em ComponentFactory.Krypton.Toolkit.VisualControlBase.OnMouseUp(MouseEventArgs e)
+  
+   em System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+  
+   em System.Windows.Forms.Control.WndProc(Message& m)
+  
+   em ComponentFactory.Krypton.Toolkit.VisualControlBase.WndProc(Message& m)
+  
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+  
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+  
+   em System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+------------------------------------------------------------------------------------------
+Fim log
+
